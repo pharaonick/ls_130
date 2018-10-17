@@ -1,0 +1,8 @@
+This is my test file isn't it great don't you think when does it actually wrap round 
+then this is the confusing thing from my perspective tbh.
+
+So is this a new paragraph. I guess it must be, right? But what about the line wrapping, 
+it's possible this is considered one line depending on how the MACHINE deals 
+with this particular app I suppose. We'll find out once I run the program...
+
+Final graf is final. Thank you and goodbye.
